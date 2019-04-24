@@ -13,6 +13,7 @@ After syncing with iCloud, I steel need to download some of the applications I u
 - [TablePlus](https://tableplus.io) - has registration code in email
 - [Cyberduck](https://cyberduck.io/download/)
 - [Homebrew](https://brew.sh)
+- [Composer](composer.md)
 
 # Get from Apple's App Store
 
