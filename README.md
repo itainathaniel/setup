@@ -12,6 +12,10 @@ After syncing with iCloud, I steel need to download some of the applications I u
 - [WhatsApp](https://www.whatsapp.com/download/)
 - [TablePlus](https://tableplus.io) - has registration code in email
 - [Cyberduck](https://cyberduck.io/download/)
+- [Homebrew](https://brew.sh)
+
+# Get from Apple's App Store
+
 - [Slack](https://itunes.apple.com/il/app/slack/id803453959?mt=12)
 - [Wallcat](https://itunes.apple.com/il/app/wallcat/id1000397973?mt=12)
 - [Telegram](https://itunes.apple.com/il/app/telegram/id747648890?mt=12)
